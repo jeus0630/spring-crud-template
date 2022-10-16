@@ -9,3 +9,8 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: create
+
+springdoc:
+  swagger-ui:
+    path: /
+    display-request-duration: true
