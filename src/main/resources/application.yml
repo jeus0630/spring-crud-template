@@ -14,3 +14,5 @@ springdoc:
   swagger-ui:
     path: /
     display-request-duration: true
+  cache:
+    disabled: true
